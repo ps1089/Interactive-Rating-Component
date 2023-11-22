@@ -1,0 +1,52 @@
+@media screen and (max-width : 768px) 
+{
+    .container
+    {
+        min-width: 400px !important;
+        padding: 30px 40px;
+    }
+}
+
+@media screen and (max-width : 425px) 
+{
+    .container
+    {
+        min-width: 380px !important;
+        padding: 25px 25px;
+    }
+}  
+
+@media screen and (max-width : 375px) 
+{
+    .container
+    {
+        min-width: 330px !important;
+        padding: 15px 15px;
+    }
+    
+    #btns-grp .btn
+    {
+        width : 2.5rem;
+        height: 2.5rem;
+    }
+    
+} 
+
+@media screen and (max-width : 320px) 
+{
+    .container 
+    {
+        padding : 7px 7px;
+        min-width: 300px !important;
+    }
+
+    #btns-grp .btn
+    {
+        width : 2.3rem;
+        height: 2.3rem;
+    }
+    .container #submit
+    {
+        padding : 7px;
+    }
+}
