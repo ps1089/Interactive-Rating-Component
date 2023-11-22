@@ -27,4 +27,4 @@ The interactive and responsive card component was developed using the following 
 # Links
 
 - Solution URL: https://github.com/ps1089/Interactive-Rating-Component
-- Live Site URL: 
+- Live Site URL: https://ps1089.github.io/Interactive-Rating-Component/
